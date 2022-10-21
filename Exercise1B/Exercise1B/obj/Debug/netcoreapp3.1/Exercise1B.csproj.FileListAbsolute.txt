@@ -1,0 +1,14 @@
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\bin\Debug\netcoreapp3.1\Exercise1B.exe
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\bin\Debug\netcoreapp3.1\Exercise1B.deps.json
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\bin\Debug\netcoreapp3.1\Exercise1B.runtimeconfig.json
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\bin\Debug\netcoreapp3.1\Exercise1B.runtimeconfig.dev.json
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\bin\Debug\netcoreapp3.1\Exercise1B.dll
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\bin\Debug\netcoreapp3.1\Exercise1B.pdb
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\obj\Debug\netcoreapp3.1\Exercise1B.csproj.AssemblyReference.cache
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\obj\Debug\netcoreapp3.1\Exercise1B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\obj\Debug\netcoreapp3.1\Exercise1B.AssemblyInfoInputs.cache
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\obj\Debug\netcoreapp3.1\Exercise1B.AssemblyInfo.cs
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\obj\Debug\netcoreapp3.1\Exercise1B.csproj.CoreCompileInputs.cache
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\obj\Debug\netcoreapp3.1\Exercise1B.dll
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\obj\Debug\netcoreapp3.1\Exercise1B.pdb
+C:\Users\Alyssa\Desktop\PRO670\Exercise1B\Exercise1B\obj\Debug\netcoreapp3.1\Exercise1B.genruntimeconfig.cache
